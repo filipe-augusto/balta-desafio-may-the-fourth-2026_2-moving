@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Desafio_2.Ai/Desafio_2.Ai.csproj" />
+  <Project Path="Desafio_2.Api/Desafio_2.Api.csproj" />
+  <Project Path="Desafio_2.Core/Desafio_2.Core.csproj" />
+  <Project Path="Desafio_2.Infra/Desafio_2.Infra.csproj" />
+</Solution>
