@@ -4,10 +4,22 @@ using Desafio_2.Core.Models;
 using Desafio_2.Core.Repositories.Abstractioncs;
 using Desafio_2.Core.Services.Abstractioncs;
 using Desafio_2.Infra.Repositories;
-
+using Microsoft.Extensions.AI;
+using OpenAI;
+using OpenAI.Chat;
 var builder = WebApplication.CreateBuilder(args);
+var token = "TOKEN AQU";
 
-builder.Services.AddScoped<ICaixaRepository, CaixaRepository>();
+
+var openAIClient = new OpenAIClient(token);
+
+var clienteChat = openAIClient
+    .GetChatClient("gpt-4o-mini")
+    .AsIChatClient();
+
+
+builder.Services.AddSingleton<IChatClient>(clienteChat);
+builder.Services.AddSingleton<ICaixaRepository, CaixaRepository>();
 
 builder.Services.AddScoped<ILocalizadorIAService, LocalizadorIAService>();
 

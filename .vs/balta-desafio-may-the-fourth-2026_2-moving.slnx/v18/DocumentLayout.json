@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{582761B4-A5C4-0830-FD23-03A29776BE44}|Desafio_2.Api\\Desafio_2.Api.csproj|c:\\users\\user_pc\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\desafio_2.api\\desafio_2.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{582761B4-A5C4-0830-FD23-03A29776BE44}|Desafio_2.Api\\Desafio_2.Api.csproj|solutionrelative:desafio_2.api\\desafio_2.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{582761B4-A5C4-0830-FD23-03A29776BE44}|Desafio_2.Api\\Desafio_2.Api.csproj|c:\\users\\user_pc\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\desafio_2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{582761B4-A5C4-0830-FD23-03A29776BE44}|Desafio_2.Api\\Desafio_2.Api.csproj|solutionrelative:desafio_2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41726A-80D7-3669-7EB1-E8363338E387}|Desafio_2.Infra\\Desafio_2.Infra.csproj|c:\\users\\user_pc\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\desafio_2.infra\\repositories\\caixarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C41726A-80D7-3669-7EB1-E8363338E387}|Desafio_2.Infra\\Desafio_2.Infra.csproj|solutionrelative:desafio_2.infra\\repositories\\caixarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,27 +50,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Desafio_2.Api",
-              "DocumentMoniker": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Api\\Desafio_2.Api.csproj",
-              "RelativeDocumentMoniker": "Desafio_2.Api\\Desafio_2.Api.csproj",
-              "ToolTip": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Api\\Desafio_2.Api.csproj",
-              "RelativeToolTip": "Desafio_2.Api\\Desafio_2.Api.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-12T00:44:21.143Z",
+              "DocumentIndex": 1,
+              "Title": "CaixaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Infra\\Repositories\\CaixaRepository.cs",
+              "RelativeDocumentMoniker": "Desafio_2.Infra\\Repositories\\CaixaRepository.cs",
+              "ToolTip": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Infra\\Repositories\\CaixaRepository.cs",
+              "RelativeToolTip": "Desafio_2.Infra\\Repositories\\CaixaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T00:48:31.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Api\\Program.cs",
               "RelativeDocumentMoniker": "Desafio_2.Api\\Program.cs",
               "ToolTip": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Api\\Program.cs",
               "RelativeToolTip": "Desafio_2.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T00:26:48.531Z",
+              "WhenOpened": "2026-05-12T00:45:10.738Z",
               "EditorCaption": ""
             }
           ]
