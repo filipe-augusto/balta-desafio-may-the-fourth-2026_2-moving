@@ -2,7 +2,7 @@
 using Desafio_2.Core.Repositories.Abstractioncs;
 namespace Desafio_2.Infra.Repositories;
 
-public class RepositorioCaixaEmMemoria : ICaixaRepository
+public class CaixaRepository : ICaixaRepository
 {
     private static readonly List<Caixa> Caixas = [];
 

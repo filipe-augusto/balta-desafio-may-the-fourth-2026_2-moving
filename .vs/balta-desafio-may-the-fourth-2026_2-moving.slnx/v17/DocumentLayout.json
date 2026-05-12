@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{582761B4-A5C4-0830-FD23-03A29776BE44}|Desafio_2.Api\\Desafio_2.Api.csproj|c:\\users\\user_pc\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\desafio_2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582761B4-A5C4-0830-FD23-03A29776BE44}|Desafio_2.Api\\Desafio_2.Api.csproj|solutionrelative:desafio_2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406F54A7-30A9-9FB6-106F-0A917F707CFF}|Desafio_2.Ai\\Desafio_2.Ai.csproj|c:\\users\\user_pc\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\desafio_2.ai\\agents\\localizadoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406F54A7-30A9-9FB6-106F-0A917F707CFF}|Desafio_2.Ai\\Desafio_2.Ai.csproj|solutionrelative:desafio_2.ai\\agents\\localizadoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631D3CF9-8380-2488-04AE-708CC207C83A}|Desafio_2.Core\\Desafio_2.Core.csproj|c:\\users\\user_pc\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\desafio_2.core\\services\\abstractioncs\\ilocalizadoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631D3CF9-8380-2488-04AE-708CC207C83A}|Desafio_2.Core\\Desafio_2.Core.csproj|solutionrelative:desafio_2.core\\services\\abstractioncs\\ilocalizadoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio_2.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Api\\Program.cs",
+              "RelativeToolTip": "Desafio_2.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T00:26:48.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILocalizadorIAService.cs",
+              "DocumentMoniker": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Core\\Services\\Abstractioncs\\ILocalizadorIAService.cs",
+              "RelativeDocumentMoniker": "Desafio_2.Core\\Services\\Abstractioncs\\ILocalizadorIAService.cs",
+              "ToolTip": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Core\\Services\\Abstractioncs\\ILocalizadorIAService.cs",
+              "RelativeToolTip": "Desafio_2.Core\\Services\\Abstractioncs\\ILocalizadorIAService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T00:19:24.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocalizadorIAService.cs",
+              "DocumentMoniker": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Ai\\Agents\\LocalizadorIAService.cs",
+              "RelativeDocumentMoniker": "Desafio_2.Ai\\Agents\\LocalizadorIAService.cs",
+              "ToolTip": "C:\\Users\\User_PC\\source\\repos\\balta-desafio-may-the-fourth-2026_2-moving\\Desafio_2.Ai\\Agents\\LocalizadorIAService.cs",
+              "RelativeToolTip": "Desafio_2.Ai\\Agents\\LocalizadorIAService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T00:18:51.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
